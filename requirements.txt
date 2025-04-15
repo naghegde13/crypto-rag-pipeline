@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+sentence-transformers
+langchain
+langchain-community
+chromadb
+gradio
+plotly
