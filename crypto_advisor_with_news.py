@@ -80,7 +80,7 @@ else:
     vectordb.persist()
 
 # Step 4: Querying from Together.AI
-TOGETHER_AI_API_KEY = "tgp_v1_rygPG1D8XIau_D6VhMwa_H_Pl8Z7r8dsE3x4ITOcQzw"
+TOGETHER_AI_API_KEY = "tyour api key"
 
 def query_mistral7b(prompt, max_tokens=300, temperature=0.7, top_p=0.9, retries=3, wait_time=5):
     url = "https://api.together.xyz/v1/completions"
